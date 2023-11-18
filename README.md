@@ -1,4 +1,4 @@
-# <p align="center">MONTE CARLO CONTROL ALGORITHM</p>
+# MONTE CARLO CONTROL ALGORITHM</p>
 
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using the Monte Carlo algorithm.
